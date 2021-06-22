@@ -1,0 +1,14 @@
+1.	Création de branche + positionnement  (git checkout -b nom_branche)
+----------- ON gCODE -------------
+
+2.	Sélectionne le travail réalisé (git add –all)
+3.	Création du commit , nouvelle version du projet (git commit -m ' ‘ )
+4.	Pousse la branche sur le GitHub (git push origin nom_branche)
+
+5.	Valide la branche sur le site github
+
+6.	VSC – On retourne sur le master en local (git checkout master)
+
+7.	On récupère la derniere version du projet (on récupère les différentes branches fusionnées par les développeurs) (git pull origin master) – on tire la branche principal ‘master’ de gitHub
+
+8.	On supprime la branche en local sur VSC (git branch -D nom_branche)
